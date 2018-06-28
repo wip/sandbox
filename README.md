@@ -2,4 +2,4 @@
 
 > just playing around
 
-wicked
+funk-ey
