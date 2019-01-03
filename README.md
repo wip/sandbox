@@ -1,3 +1,3 @@
-# WIP sandbox
+# WIP (BETA) sandbox
 
 > just playing around
